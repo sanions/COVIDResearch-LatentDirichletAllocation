@@ -8,3 +8,4 @@ Using Latent Dirichlet Allocation, the texts are analyzed and topics are created
 topics can be altered by changing the value assigned to the "number_topics" variable, and the "number_words" variable can be altered based
 upon how many of the top words in each topic you wish to print. 
 
+Another note: Currently, the results in the notebook are only those of the first 100 papers in the DataFrame, due to processing power and time. The code, however, has been changed so it would run through all the papers. 
